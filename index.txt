@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+    <title>Practice File</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<h1>Hello</h1>
+<p>My name is Mai. I'm practicing.</p>
+</body>
